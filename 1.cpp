@@ -15,6 +15,6 @@ int main()
 		f1 = f2 + f1;
 		f2 = f1 + f2;
 	}
-	getchar();
+	getchar();//第一次修改。
 	return 0;
 }
